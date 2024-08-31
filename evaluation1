@@ -1,0 +1,17 @@
+dict1 = { }
+
+def add_Tasks(name, id, status):
+    dict1.append(name)
+    dict1.append(id)
+    dict1.append(status)
+def add_task(name, id, status):
+    print("sid", 1, online)
+    print("nish", 2, online)
+    print("aloo", 3, ofline)
+    print("van", 4, online)
+def add_task(name, id, status):
+    {"sid",1,online}
+    {"nish",2,ofline}
+    {"van",3,online}
+def update(name, id, status):
+    ("manav",4, online)
